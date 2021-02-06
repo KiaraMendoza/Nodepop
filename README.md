@@ -1,4 +1,3 @@
-
 # NodePop Avanzado
 
 [Demo](/anuncios) of the methods (this link works only if you run the project)
@@ -6,6 +5,13 @@
 Api for the iOS/Android apps.
 
 ## Deploy
+
+## AWS URL: 
+ (I've used this backend instead of mine because is the one I used for the advanced react project, and some api urls are different)
+ - Nodepop Back: http://ec2-18-224-212-77.us-east-2.compute.amazonaws.com/
+ - Nodepop Front: http://18.224.212.77/
+
+ To check the 'X-Owner' http header, check the 'style.css' file.
 
 ### Install dependencies  
     
@@ -115,3 +121,15 @@ Return the list of available tags for the resource anuncios.
         "mobile"
       ]
     }
+
+👤 **Kiara Mendoza**
+
+* Website: https://kiara-portfolio.netlify.app/
+* Github: [@KiaraMendoza](https://github.com/KiaraMendoza)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
